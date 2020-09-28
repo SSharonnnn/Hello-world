@@ -1,5 +1,5 @@
 # Hello-world
 
-Hi HUmans!
+Hi Humans!
  
 Sharon here,I'd like to learn more.
